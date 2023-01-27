@@ -1,0 +1,46 @@
+{
+    "fruits": {
+        "banana": {
+            "price": 5, 
+            "stock": 100
+        }, 
+        "apple": {
+            "price": 3, 
+            "stock": 200
+        }, 
+        "orange": {
+            "price": 2, 
+            "stock": 150
+        }, 
+        "pear": {
+            "price": 3, 
+            "stock": 100
+        }, 
+        "cucumber": {
+            "price": 3, 
+            "stock": 100
+        }, 
+        "watermelon": {
+            "price": 1.5, 
+            "stock": 150
+        }, 
+        "tangerine": {
+            "price": 7, 
+            "stock": 160
+        }
+    }, 
+    "vegetables": {
+        "cabbage": {
+            "price": 2, 
+            "stock": 100
+        }, 
+        "eggplant": {
+            "price": 2.5, 
+            "stock": 200
+        }, 
+        "tomato": {
+            "price": 1.5, 
+            "stock": 150
+        }
+    }
+}

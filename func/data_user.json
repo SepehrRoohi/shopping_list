@@ -1,0 +1,27 @@
+{
+    "username": {
+        "username": "username",
+        "password": "password",
+        "phone": "phone"
+    },
+    "sepehr": {
+        "username": "sepehr",
+        "password": "12345678",
+        "phone": "09197395819"
+    },
+    "mohsen": {
+        "username": "mohsen",
+        "password": "mohsen123",
+        "phone": "09123087873"
+    },
+    "saman": {
+        "username": "saman",
+        "password": "10101010",
+        "phone": "09194186519"
+    },
+    "ali": {
+        "username": "ali",
+        "password": "1234678",
+        "phone": "09197395819"
+    }
+}
